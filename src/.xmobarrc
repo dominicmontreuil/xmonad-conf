@@ -1,5 +1,5 @@
 Config {
-    font = "xft:Inconsolata:pixelsize=14",
+    font = "xft:Inconsolata:pixelsize=16",
     position = TopW L 90,
     bgColor    = "#1B1E1A",
     fgColor    = "#D0DCE6", 
